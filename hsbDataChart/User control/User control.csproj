@@ -54,12 +54,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="hsbDataChart.xaml.cs">
+      <DependentUpon>hsbDataChart.xaml</DependentUpon>
+    </Compile>
     <Compile Include="PeriodType.cs" />
     <Compile Include="Range.cs" />
     <Compile Include="TestWindow.xaml.cs">
       <DependentUpon>TestWindow.xaml</DependentUpon>
     </Compile>
-    <Page Include="hsbDataChartUserControl.xaml">
+    <Page Include="hsbDataChart.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -72,9 +75,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ControlManager.cs" />
-    <Compile Include="hsbDataChartUserControl.xaml.cs">
-      <DependentUpon>hsbDataChartUserControl.xaml</DependentUpon>
-    </Compile>
     <Compile Include="LicenseDisplayer.cs" />
     <Compile Include="LicensesDisplayer.cs" />
     <Compile Include="MainWindow.xaml.cs">

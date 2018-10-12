@@ -15,8 +15,12 @@ using System.Windows.Shapes;
 
 namespace User_control
 {
-    public partial class hsbDataChartUserControl : UserControl
+    /// <summary>
+    /// Interaction logic for hsbDataChart.xaml
+    /// </summary>
+    public partial class hsbDataChart : UserControl
     {
+
         private double m_dHorizontalMarginForCanvas = 50;
         private double m_dVerticalMarginForCanvas = 50;
 
@@ -117,7 +121,7 @@ namespace User_control
             set => m_dDefaultHeightForTextBlock = value;
         }
 
-        public hsbDataChartUserControl()
+        public hsbDataChart()
         {
             InitializeComponent();
             cbPeriod.ItemsSource = Enum.GetValues(typeof(PeriodType));

@@ -52,3 +52,6 @@ C:\Users\hsbUser\Desktop\User control\User control\obj\Debug\User control.pdb
 C:\Users\hsbUser\Desktop\User control\User control\obj\Debug\TestWindow.g.cs
 C:\Users\hsbUser\Desktop\User control\User control\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\hsbUser\Desktop\User control\User control\obj\Debug\TestWindow.baml
+C:\Users\hsbUser\Documents\GitHub\hsbDatachart\hsbDataChart\User control\obj\Debug\User control.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Documents\GitHub\hsbDatachart\hsbDataChart\User control\obj\Debug\User control.exe
+C:\Users\hsbUser\Documents\GitHub\hsbDatachart\hsbDataChart\User control\obj\Debug\User control.pdb
