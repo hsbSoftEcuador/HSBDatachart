@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="User_control.hsbDataChartUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:User_control"
+             mc:Ignorable="d" 
+             d:DesignHeight="350" d:DesignWidth="525" Name="mainWindow">
+    <Grid Name="gdMainGrid">
+        <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
+            <Canvas Name="cvWhiteBoard">
+                <Button Name="btnStart" Width="50" Height="20" Canvas.Right="0" Canvas.Bottom="0" Content="Start" Click="Button_Click"/>
+                <TextBox Name="txtMax" Width="50" Height="20" Canvas.Left="0" Canvas.Bottom="0" Text="MAX"/>
+                <TextBox Name="txtMin" Width="50" Height="20" Canvas.Left="50" Canvas.Bottom="0" Text="MIN"/>
+                <TextBox Name="txtInterval" Width="50" Height="20" Canvas.Left="100" Canvas.Bottom="0" Text="Results"/>
+                <DatePicker Name="dpDateStart" Width="100" Height="20" Canvas.Left="150" Canvas.Bottom="0"/>
+                <DatePicker Name="dpDateEnd" Width="100" Height="20" Canvas.Left="250" Canvas.Bottom="0"/>
+                <ComboBox Name="cbPeriod" Height="25" Width="150" Canvas.Top="0" Canvas.Right="0"/>
+            </Canvas>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
