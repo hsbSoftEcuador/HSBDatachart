@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hsbDataChart", "hsbDataChart\hsbDataChart.csproj", "{E0AB3D96-E112-414A-88AB-3E984126ADA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hsbDataChartTesting", "hsbDataChartTesting\hsbDataChartTesting.csproj", "{65031119-04F6-4F72-B6F6-76AAACB8A8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0AB3D96-E112-414A-88AB-3E984126ADA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AB3D96-E112-414A-88AB-3E984126ADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AB3D96-E112-414A-88AB-3E984126ADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AB3D96-E112-414A-88AB-3E984126ADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65031119-04F6-4F72-B6F6-76AAACB8A8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65031119-04F6-4F72-B6F6-76AAACB8A8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65031119-04F6-4F72-B6F6-76AAACB8A8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65031119-04F6-4F72-B6F6-76AAACB8A8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD42AE61-DDC7-447B-B785-A668474E3FF0}
+	EndGlobalSection
+EndGlobal

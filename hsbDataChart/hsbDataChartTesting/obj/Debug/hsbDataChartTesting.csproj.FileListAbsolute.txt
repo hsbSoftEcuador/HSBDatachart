@@ -1,0 +1,17 @@
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\bin\Debug\hsbDataChartTesting.exe.config
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\bin\Debug\hsbDataChartTesting.exe
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\bin\Debug\hsbDataChartTesting.pdb
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\bin\Debug\hsbDataChart.dll
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\bin\Debug\hsbDataChart.pdb
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\MainWindow.g.cs
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\App.g.cs
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting_MarkupCompile.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting_MarkupCompile.lref
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\MainWindow.baml
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.g.resources
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.Properties.Resources.resources
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.csproj.GenerateResource.Cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.csproj.CoreCompileInputs.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.exe
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChartTesting\obj\Debug\hsbDataChartTesting.pdb

@@ -1,0 +1,13 @@
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.g.cs
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart_MarkupCompile.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart_MarkupCompile.lref
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\bin\Debug\hsbDataChart.dll
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\bin\Debug\hsbDataChart.pdb
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.baml
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.g.resources
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.Properties.Resources.resources
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.csproj.GenerateResource.Cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.csproj.CoreCompileInputs.cache
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.dll
+C:\Users\hsbUser\Desktop\hsbDataChart\hsbDataChart\obj\Debug\hsbDataChart.pdb
